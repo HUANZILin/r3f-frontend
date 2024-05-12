@@ -1,6 +1,6 @@
 import { createContext, useContext, useEffect, useState } from "react";
 
-const backendUrl = "https://r3f-virtual-girlfriend-backend-1lbc.onrender.com";
+const backendUrl = "https://r3f-virtual-girlfriend-backend-11wy.onrender.com";
 
 const ChatContext = createContext();
 
